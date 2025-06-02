@@ -1,0 +1,11 @@
+einops
+importlib-metadata
+mat4py
+matplotlib
+modelindex
+numpy<2.0
+rich
+albumentations
+scikit-learn
+decord
+timm
