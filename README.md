@@ -1,7 +1,7 @@
 # OmniFD: A Unified Model for Versatile Face Forgery Detection
 
 This repository is the official implementation of
-paper: [OmniFD: A Unified Model for Versatile Face Forgery Detection]()
+paper: [OmniFD: A Unified Model for Versatile Face Forgery Detection](https://arxiv.org/abs/2512.01128)
 
 <img src="assets/intro.png" alt="introduction" width="55%">
 
@@ -105,5 +105,11 @@ If you find this repository useful in your research, please consider citing:
 
 
 ```latex
-
+@misc{liu2025omnifd,
+      title={OmniFD: A Unified Model for Versatile Face Forgery Detection}, 
+      author={Haotian Liu and Haoyu Chen and Chenhui Pan and You Hu and Guoying Zhao and Xiaobai Li},
+      year={2025},
+      eprint={2512.01128},
+      archivePrefix={arXiv},
+}
 ```
